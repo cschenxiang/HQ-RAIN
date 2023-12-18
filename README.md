@@ -16,6 +16,30 @@ Recent years have witnessed significant advances in image deraining due to the k
 
 ---
 
+## Dataset
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Training Set</th>
+    <th>Testing Set</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="https://pan.baidu.com/s/1RYTjR7nT65l1u12X2f83mA?pwd=bxrk">Download </a>[bxrk]  </td>
+    <td> <a href="https://pan.baidu.com/s/1h5PhLf6zgnoo9cHZHZ9PHw?pwd=4zqj">Download </a> [4zqj] </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Google Drive</td>
+    <td> <a href="https://drive.google.com/file/d/1Mm6hWdpjo9eEoNlCHAxd03etY3ks-zyy/view?usp=sharing">Download</a> </td>
+    <td> N/A </td>
+  </tr>
+
+
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
