@@ -35,7 +35,7 @@ Recent years have witnessed significant advances in image deraining due to the k
 <tbody>
   <tr>
     <td>Google Drive</td>
-    <td> <a href="https://drive.google.com/file/d/1Mm6hWdpjo9eEoNlCHAxd03etY3ks-zyy/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1K2BiKHF6FStIX29m72PgZUcYciljG2tq/view?usp=sharing">Download</a> </td>
     <td> N/A </td>
   </tr>
 </tbody>
