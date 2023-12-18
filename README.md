@@ -20,7 +20,7 @@ Recent years have witnessed significant advances in image deraining due to the k
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Download</th>
     <th>Training Set</th>
     <th>Testing Set</th>
   </tr>
@@ -40,6 +40,7 @@ Recent years have witnessed significant advances in image deraining due to the k
   </tr>
 </tbody>
 </table>
+Please note that we have not provided the ground turths of the HQ-RAIN testing set. You can submit your derained results for verification through our online website.
 
 ## Citation
 If you find this project useful in your research, please consider citing:
