@@ -28,7 +28,7 @@ If you find this project useful in your research, please consider citing:
 ```
 
 ## Disclaimer
-Please only use the code and dataset for research purposes.
+Please only use the dataset for research purposes.
 
 ## Contact
 If you have any questions, please feel free to reach me out at chenxiang@njust.edu.cn
