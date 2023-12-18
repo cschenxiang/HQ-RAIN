@@ -42,6 +42,9 @@ Recent years have witnessed significant advances in image deraining due to the k
 </table>
 Please note that we have not provided the ground turths of the HQ-RAIN testing set. You can submit your derained results for verification through our online website.
 
+## Metrics
+[https://visual.ee.ucla.edu/gt_rain.htm/](https://visual.ee.ucla.edu/gt_rain.htm/)
+
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
