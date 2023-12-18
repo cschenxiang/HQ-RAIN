@@ -16,4 +16,20 @@ Recent years have witnessed significant advances in image deraining due to the k
 
 ---
 
+## Citation
+If you find this project useful in your research, please consider citing:
+```
+@article{chen2023survey,
+    title={Towards Unified Deep Image Deraining: A Survey and A New Benchmark},
+    author={Chen, Xiang and Pan, Jinshan and Dong, Jiangxin and Tang, Jinhui},
+    journal={arXiv preprint arXiv:2105.15077},
+    year={2023}
+}
+```
+
+## Disclaimer
+Please only use the code and dataset for research purposes.
+
+## Contact
+If you have any questions, please feel free to reach me out at chenxiang@njust.edu.cn
 
