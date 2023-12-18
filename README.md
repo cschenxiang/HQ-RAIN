@@ -38,6 +38,8 @@ Recent years have witnessed significant advances in image deraining due to the k
     <td> <a href="https://drive.google.com/file/d/1Mm6hWdpjo9eEoNlCHAxd03etY3ks-zyy/view?usp=sharing">Download</a> </td>
     <td> N/A </td>
   </tr>
+</tbody>
+</table>
 
 ## Citation
 If you find this project useful in your research, please consider citing:
