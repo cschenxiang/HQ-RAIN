@@ -39,7 +39,6 @@ Recent years have witnessed significant advances in image deraining due to the k
     <td> N/A </td>
   </tr>
 
-
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```
