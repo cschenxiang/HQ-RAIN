@@ -42,7 +42,7 @@ Recent years have witnessed significant advances in image deraining due to the k
 <tbody>
   <tr>
     <td>Dropbox</td>
-    <td> <a href="">Download </a> [Input] <a href="https://www.dropbox.com/scl/fi/omf3k5rz2g2v2zgk2xq4c/HQ-RAIN_train_target.zip?rlkey=aj2ywnzjmyy435vq3yq1a0zxt&dl=0">Download </a> [Target] </td>
+    <td> <a href="https://www.dropbox.com/scl/fi/w8rry0qdirq8symd94e44/HQ-RAIN_train_input.zip?rlkey=kyldqs878l3x5kh3hafjwk1yj&dl=0">Download </a> [Input] <a href="https://www.dropbox.com/scl/fi/omf3k5rz2g2v2zgk2xq4c/HQ-RAIN_train_target.zip?rlkey=aj2ywnzjmyy435vq3yq1a0zxt&dl=0">Download </a> [Target] </td>
     <td> <a href="https://www.dropbox.com/scl/fi/xx418hyb3eo7oj3obayv7/HQ-RAIN_test_input.zip?rlkey=3l7o115xt947fj1yzsscz503r&dl=0">Download</a> </td>
   </tr>
 </tbody>
