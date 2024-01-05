@@ -40,6 +40,14 @@ Recent years have witnessed significant advances in image deraining due to the k
   </tr>
 </tbody>
 </table>
+<tbody>
+  <tr>
+    <td>Dropbox</td>
+    <td> N/A </td>
+    <td> <a href="https://www.dropbox.com/scl/fi/xx418hyb3eo7oj3obayv7/HQ-RAIN_test_input.zip?rlkey=3l7o115xt947fj1yzsscz503r&dl=0">Download</a> </td>
+  </tr>
+</tbody>
+</table>
 Please note that we have not provided the ground turths of the HQ-RAIN testing set. You can submit your derained results for verification through our online website.
 
 ## Metrics
