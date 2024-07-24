@@ -29,25 +29,10 @@ Recent years have witnessed significant advances in image deraining due to the k
   <tr>
     <td>Baidu Cloud</td>
     <td> <a href="https://pan.baidu.com/s/1RYTjR7nT65l1u12X2f83mA?pwd=bxrk">Download </a>[bxrk]  </td>
-    <td> <a href="https://pan.baidu.com/s/1h5PhLf6zgnoo9cHZHZ9PHw?pwd=4zqj">Download </a> [4zqj] </td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td>Google Drive</td>
-    <td> N/A </td>
-    <td> <a href="https://drive.google.com/file/d/1K2BiKHF6FStIX29m72PgZUcYciljG2tq/view?usp=sharing">Download</a> </td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td>Dropbox</td>
-    <td> <a href="https://www.dropbox.com/scl/fi/w8rry0qdirq8symd94e44/HQ-RAIN_train_input.zip?rlkey=kyldqs878l3x5kh3hafjwk1yj&dl=0">Download </a> [Input] <a href="https://www.dropbox.com/scl/fi/omf3k5rz2g2v2zgk2xq4c/HQ-RAIN_train_target.zip?rlkey=aj2ywnzjmyy435vq3yq1a0zxt&dl=0">Download </a> [Target] </td>
-    <td> <a href="https://www.dropbox.com/scl/fi/xx418hyb3eo7oj3obayv7/HQ-RAIN_test_input.zip?rlkey=3l7o115xt947fj1yzsscz503r&dl=0">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1V0U4PdJkSmkFsB3Tl_fynw?pwd=0j57">Download </a> [0j57] </td>
   </tr>
 </tbody>
 </table>
-Please note that we have not provided the ground turths of the HQ-RAIN testing set. You can submit your derained results for verification through our online website.
 
 ## Metrics
 [https://github.com/cschenxiang/HQ-RAIN/tree/main/Metrics](https://github.com/cschenxiang/HQ-RAIN/tree/main/Metrics)
